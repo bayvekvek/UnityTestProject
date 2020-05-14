@@ -11,7 +11,7 @@ public class Character : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update(vekvek)
+    void Update(vekvek ama yeni)
     {
         
     }
